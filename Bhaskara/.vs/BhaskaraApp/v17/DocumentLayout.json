@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A53B39-4611-4060-A1F9-C9E5E6DD36F5}|BhaskaraAppUnitTest\\BhaskaraAppUnitTest.csproj|c:\\users\\senai3em\\desktop\\teste\\bhaskaraappunittest\\bhaskaratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A53B39-4611-4060-A1F9-C9E5E6DD36F5}|BhaskaraAppUnitTest\\BhaskaraAppUnitTest.csproj|solutionrelative:bhaskaraappunittest\\bhaskaratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BhaskaraTests.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Teste\\BhaskaraAppUnitTest\\BhaskaraTests.cs",
+              "RelativeDocumentMoniker": "BhaskaraAppUnitTest\\BhaskaraTests.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Teste\\BhaskaraAppUnitTest\\BhaskaraTests.cs",
+              "RelativeToolTip": "BhaskaraAppUnitTest\\BhaskaraTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAvwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:40:23.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
